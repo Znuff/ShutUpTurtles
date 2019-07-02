@@ -1,0 +1,11 @@
+## Interface: 80200
+## Version: @project-version@
+## Title: ShutUpTurtles
+## Author: Znuff
+## Notes: Silence the annoying tortollans.
+
+## X-Category: Audio
+## X-Website: https://github.com/Znuff/ShutUpTurtles
+## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
+
+ShutUpTurtles.lua
